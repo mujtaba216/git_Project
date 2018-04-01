@@ -1,1 +1,1 @@
-This is a sample text for my project
+hello this is git project practice you can see changes done here
